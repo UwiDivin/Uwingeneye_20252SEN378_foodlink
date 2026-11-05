@@ -98,3 +98,30 @@ Research Gap:
 The database provides research information rather
 than a complete operational system for managing
 individual food donations and distributions.
+
+### Source 5: NISR (2022)
+
+Title: Rwanda Season Agriculture Survey 2022
+
+Producer: National Institute of Statistics of Rwanda
+
+Platform: FAO Microdata Catalogue
+
+Link: https://microdata.fao.org/index.php/catalog/2501
+
+Key Findings:
+The dataset contains agricultural survey information
+covering crop production, agricultural practices and
+post-harvest losses. It includes variables measuring
+food quantities lost during packaging and processing.
+
+Relevance to FoodLink:
+This dataset provides useful agricultural information
+that can help us understand food production and losses
+in Rwanda. It may also support the development of
+realistic sample data for our database.
+
+Research Gap:
+The dataset focuses on agricultural production and
+post-harvest losses rather than individual food donations,
+recipient organizations and food distribution records.

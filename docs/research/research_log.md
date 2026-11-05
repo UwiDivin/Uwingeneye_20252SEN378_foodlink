@@ -73,3 +73,28 @@ The report examines global food waste.
 FoodLink will focus on managing safe surplus food
 donations and redistributing them to local organizations
 in Rwanda.
+
+### Source 4: FAO (2026)
+
+Title: Food Loss and Waste Database
+
+Organization: Food and Agriculture Organization
+of the United Nations
+
+Link: https://www.fao.org/platform-food-loss-waste/flw-data
+
+Key Findings:
+The FAO database contains more than 700 publications
+and reports, almost 40,000 data points from 167 countries,
+and information covering 296 food commodities and
+commodity groups, according to its January 2026 information.
+
+Relevance to FoodLink:
+The database provides useful research and information
+about food loss and waste. It can help identify food
+commodities and understand challenges in food supply chains.
+
+Research Gap:
+The database provides research information rather
+than a complete operational system for managing
+individual food donations and distributions.

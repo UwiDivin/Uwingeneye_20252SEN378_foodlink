@@ -48,3 +48,28 @@ Research Gap:
 The survey focuses on household food security.
 FoodLink will focus on the operational management
 of food donations, inventory and distribution.
+
+### Source 3: UNEP (2024)
+
+Title: Food Waste Index Report 2024
+
+Organization: United Nations Environment Programme
+
+Link: https://wedocs.unep.org/handle/20.500.11822/45230
+
+Key Findings:
+The report estimates that approximately 1.05 billion
+tonnes of food were wasted worldwide in 2022.
+Households accounted for 60%, food services for 28%,
+and retail businesses for 12% of the total.
+
+Relevance to FoodLink:
+The research highlights food waste in restaurants
+and retail businesses, which are potential food donors
+in the FoodLink system.
+
+Research Gap:
+The report examines global food waste.
+FoodLink will focus on managing safe surplus food
+donations and redistributing them to local organizations
+in Rwanda.

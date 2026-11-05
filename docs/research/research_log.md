@@ -125,3 +125,32 @@ Research Gap:
 The dataset focuses on agricultural production and
 post-harvest losses rather than individual food donations,
 recipient organizations and food distribution records.
+
+### Source 6: WRI (2024)
+
+Title: The Role of Faith-Based Organizations in
+Tackling Food Loss and Waste in Rwanda:
+A Preliminary Study
+
+Organization: World Resources Institute (WRI)
+
+Link: https://africa.wri.org/research/role-faith-based-organizations-tackling-food-loss-and-waste-rwanda-preliminary-study
+
+Key Findings:
+The research found that many faith-based organizations
+contribute to agriculture and community development,
+but few have formal food-loss and waste reduction
+programmes. Limited knowledge, skills and resources
+are important barriers.
+
+Relevance to FoodLink:
+The research supports the involvement of community
+organizations in food redistribution. FoodLink aims
+to connect food donors with organizations that can
+receive and distribute safe surplus food.
+
+Research Gap:
+The research examines the role of faith-based
+organizations in reducing food loss and waste.
+FoodLink will focus on developing a database system
+to manage donations, inventory, requests and distributions.

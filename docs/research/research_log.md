@@ -23,3 +23,28 @@ Research Gap:
 The report discusses food loss at a national and supply
 chain level. FoodLink will focus on managing individual
 donations and connecting donors with recipient organizations.
+
+### Source 2: NISR (2024)
+
+Title: Comprehensive Food Security and Vulnerability
+Analysis (CFSVA) 2024
+
+Organization: National Institute of Statistics of Rwanda
+
+Link: https://statistics.gov.rw/sites/default/files/documents/2025-07/Rwanda%20CFSVA%202024.pdf
+
+Key Findings:
+The survey covered 9,000 households across Rwanda's
+30 districts. It found that 83% of households were
+food secure, 16% moderately food insecure and
+1% severely food insecure.
+
+Relevance to FoodLink:
+This research provides evidence about food security
+challenges in Rwanda. It supports the importance of
+improving food access through organized food redistribution.
+
+Research Gap:
+The survey focuses on household food security.
+FoodLink will focus on the operational management
+of food donations, inventory and distribution.

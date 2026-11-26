@@ -87,3 +87,16 @@ draw.io (diagrams.net)
 
 ### Process Explanation
 [View Business Process Explanation (PDF)](business_process/business_process_explanation.pdf)
+
+### Phase II – Data Sourcing and Normalization
+
+The Phase II work organizes the Rwanda Seasonal Agricultural Survey 2024 dataset into nine related tables using normalization.
+
+**Documents:**
+- [Dataset Card](data/dataset_card.md)
+- [Normalization](docs/design/normalization.md)
+- [Data Mapping](docs/design/data_mapping.md)
+- [Data Dictionary](docs/design/data_dictionary.md)
+- [Logical ERD](docs/design/erd.png)
+
+**Raw dataset:** `data/raw/`

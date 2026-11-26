@@ -71,3 +71,19 @@ Donation, Inventory, Distribution.
 ## 9. References
 
 References and research findings will be documented in `docs/research/research_log.md`.
+
+## Phase I – Business Process Modeling
+
+### Process Description
+Food Request Management explains how community organizations check available food, submit food requests, and receive approval or rejection feedback through FoodLink Rwanda.
+
+### Modeling Tool
+draw.io (diagrams.net)
+
+### Business Process Diagram
+[View Published Diagram]([PASTE_YOUR_PUBLISHED_DIAGRAM_LINK_HERE](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1P3N2LNxpyAOMClsMVGoV8N-mAbsGC6k3%26export%3Ddownload))
+
+[Download Business Process Diagram (PDF)](business_process/business_process_diagram.pdf)
+
+### Process Explanation
+[View Business Process Explanation (PDF)](business_process/business_process_explanation.pdf)
